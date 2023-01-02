@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 200px;
+    height: 70px;
+    border-radius: 5px;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+.blue {
+    background-color: rgb(60, 60, 214);
+
+}
+
+.green {
+    background-color: rgb(28, 197, 28);
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: rgb(209, 24, 24);
+}
